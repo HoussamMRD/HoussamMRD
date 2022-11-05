@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/105470775/168205566-db1137b0-ced4-4752-8c8b-99598ab4024f.gif">
 
-<p align="left"> <a href="https://twitter.com/houssammrd" target="blank"><img src="https://img.shields.io/twitter/follow/houssammrd?logo=twitter&style=for-the-badge" alt="houssammrd" /></a> </p>
+
 
 - 🔭 I’m currently working on **NFT Blockchain development**
 
