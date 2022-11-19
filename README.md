@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mridi Houssam</h1>
+<h1 align="center">Hi 👋, I'm HoussamMRD </h1>
 <h3 align="center">A passionate Full Stack and Web3 Blockchain developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/105470775/168205566-db1137b0-ced4-4752-8c8b-99598ab4024f.gif">
 
