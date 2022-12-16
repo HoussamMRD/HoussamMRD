@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HoussamMRD </h1>
 <h3 align="center">A passionate Full Stack and Web3 Blockchain developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://coindeveloperindia.com/blog/wp-content/uploads/2019/10/Cryptodevelopment.gif">
+<img align="right" alt="Coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 <p align="left"> <a href="https://twitter.com/@mrd_houssam" target="blank"><img src="https://img.shields.io/twitter/follow/@mrd_houssam?logo=twitter&style=for-the-badge" alt="@mrd_houssam" /></a> </p>
 
