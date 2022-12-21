@@ -4,11 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/@mrd_houssam" target="blank"><img src="https://img.shields.io/twitter/follow/@mrd_houssam?logo=twitter&style=for-the-badge" alt="@mrd_houssam" /></a> </p>
 
-- 🔭 I’m currently working on **NFT Blockchain development**
+- 🔭 I’m currently working on **NFT Development**
 
 - 🌱 I’m currently learning **WEB3 development and Blockchain**
-
-- 👯 I’m looking to collaborate on **MetaMask Blockchain development**
 
 - 📫 How to reach me **mrdhoussam9@gmail.com**
 
