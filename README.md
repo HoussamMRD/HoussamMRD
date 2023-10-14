@@ -23,14 +23,5 @@
 
 
 
-[![committers.top badge](https://user-badge.committers.top/morocco/HoussamMRD.svg)](https://user-badge.committers.top/morocco/HoussamMRD)
 
-<br/>
-<a href="#">
-  <img align="center" src="https://readme-stats-git-main-HoussamMRD.vercel.app/api/top-langs/?username=HoussamMRD&layout=compact&hide=blade,html,css,jupyter%20notebook&langs_count=10&size_weight=1&count_weight=0&hide_progress=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://readme-stats-git-main-HoussamMRD.vercel.app/api?username=HoussamMRD&show_icons=true&hide=stars,issues&count_private=true&show_icons=true&show_owner=true" />
-</a>
-<br/>
 
