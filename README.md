@@ -2,19 +2,19 @@
 <h3 align="center">Passionate Full-Stack & Web3 Blockchain Developer</h3>
 
 <div align="center">
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2d/88/aa/2d88aa9313c284738adc8ca445d1f932.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/2d/88/aa/2d88aa9313c284738adc8ca445d1f932.gif">
 </div>
 
 
 <div align="center">
+  
+🌱 I’m currently improving my  **Full-Stack** and **Blockchain** skills development    
 
-- 🌱 I’m currently improving my  **Full-Stack** and **Blockchain** skills development    
+💬 Ask me about **Anything!**
 
-- 💬 Ask me about **Anything!**
+📫 How to reach me ** mrdhoussam9@gmail.com**
 
-- 📫 How to reach me ** mrdhoussam9@gmail.com**
-
-- ⛔ Some of my repos are on **private** mode! please message me to more information!
+⛔ Some of my repos are on **private** mode! please message me to more information!
 
 
 
