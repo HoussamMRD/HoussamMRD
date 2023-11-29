@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Full-Stack & Web3 Blockchain Developer</h3>
 
 <div align="center">
-<img align="center" alt="Coding" width="400" src="http://www.airyvision.com/">
+<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/ho0xXatV7b3Fo1ZRXN/giphy.gif">
 </div>
 
 ###
