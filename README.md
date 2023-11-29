@@ -6,6 +6,7 @@
 </div>
 
 
+<div align="center">
 
 - 🌱 I’m currently improving my  **Full-Stack** and **Blockchain** skills development    
 
@@ -137,6 +138,8 @@
 
 ###
 
+
+</div>
 
 
 
