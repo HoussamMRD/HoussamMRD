@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HoussamMRD</h1>
-<h3 align="center">Passionate Full Stack & Web3 Blockchain Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p8yrvo57h9msofnyoq7o1h27xuozgpt059n7llrc&rid=giphy.gif&ct=g">
+<h3 align="center">Passionate Full-Stack & Web3 Blockchain Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2d/88/aa/2d88aa9313c284738adc8ca445d1f932.gif">
 
 
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/houssam-mridi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="houssam-mrd" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/3Y9Q5X9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="https://discord.gg/3Y9Q5X9" height="30" width="40" /></a>
+
 </p>
 
 
@@ -93,8 +93,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ios/ios-original.svg" height="40" width="52" alt="ios logo"  />
-
+   
 </div>
 
 ###
@@ -131,10 +130,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Shintai-X" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Shintai-X" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
