@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm HoussamMRD</h1>
 <h3 align="center">Passionate Full-Stack & Web3 Blockchain Developer</h3>
+
+<div align="center">
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2d/88/aa/2d88aa9313c284738adc8ca445d1f932.gif">
+</div>
 
 
 
