@@ -20,9 +20,7 @@
   <a href="https://linkedin.com/in/houssam-mridi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://discordapp.com/users/houssammrd" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" height="40" width="40"/>
-  </a>
+ 
 </p>
 
 ---
