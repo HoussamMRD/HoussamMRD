@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full-Stack & Web3 Blockchain Developer</h3>
 
 <div align="center">
-  <img alt="Coding" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazk0NTQ4bjNhYnB6cm0ybXk1bWtybzEwcmkwNzN6NHhsazRpZzlhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img alt="Coding" width="600" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 </div>
 
 ---
